@@ -1,0 +1,13 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File tạm
+*.tmp
+*.bak
+
+# Thông tin nhạy cảm, không bao giờ đưa lên
+.env
+*.pem
+*.key

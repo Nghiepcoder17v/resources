@@ -1,0 +1,94 @@
+CaskaydiaCove NF
+CaskaydiaCove NF ExtraLight
+CaskaydiaCove NF Light
+CaskaydiaCove NF SemiBold
+CaskaydiaCove NF SemiLight
+CaskaydiaCove NFM
+CaskaydiaCove NFM ExtraLight
+CaskaydiaCove NFM Light
+CaskaydiaCove NFM SemiBold
+CaskaydiaCove NFM SemiLight
+CaskaydiaCove NFP
+CaskaydiaCove NFP ExtraLight
+CaskaydiaCove NFP Light
+CaskaydiaCove NFP SemiBold
+CaskaydiaCove NFP SemiLight
+Consolas
+Dank Mono
+Inconsolata
+Inconsolata Black
+Inconsolata Condensed
+Inconsolata Condensed Black
+Inconsolata Condensed ExtraBold
+Inconsolata Condensed ExtraLigh
+Inconsolata Condensed Light
+Inconsolata Condensed Medium
+Inconsolata Condensed SemiBold
+Inconsolata Expanded
+Inconsolata Expanded Black
+Inconsolata Expanded ExtraBold
+Inconsolata Expanded ExtraLight
+Inconsolata Expanded Light
+Inconsolata Expanded Medium
+Inconsolata Expanded SemiBold
+Inconsolata ExtraBold
+Inconsolata ExtraCondensed
+Inconsolata ExtraCondensed Blac
+Inconsolata ExtraCondensed Extr
+Inconsolata ExtraCondensed Ligh
+Inconsolata ExtraCondensed Medi
+Inconsolata ExtraCondensed Semi
+Inconsolata ExtraExpanded
+Inconsolata ExtraExpanded Black
+Inconsolata ExtraExpanded Extra
+Inconsolata ExtraExpanded Light
+Inconsolata ExtraExpanded Mediu
+Inconsolata ExtraExpanded SemiB
+Inconsolata ExtraLight
+Inconsolata Light
+Inconsolata Medium
+Inconsolata SemiBold
+Inconsolata SemiCondensed
+Inconsolata SemiCondensed Black
+Inconsolata SemiCondensed Extra
+Inconsolata SemiCondensed Light
+Inconsolata SemiCondensed Mediu
+Inconsolata SemiCondensed SemiB
+Inconsolata SemiExpanded
+Inconsolata SemiExpanded Black
+Inconsolata SemiExpanded ExtraB
+Inconsolata SemiExpanded ExtraL
+Inconsolata SemiExpanded Light
+Inconsolata SemiExpanded Medium
+Inconsolata SemiExpanded SemiBo
+Inconsolata UltraCondensed
+Inconsolata UltraCondensed Blac
+Inconsolata UltraCondensed Extr
+Inconsolata UltraCondensed Ligh
+Inconsolata UltraCondensed Medi
+Inconsolata UltraCondensed Semi
+Inconsolata UltraExpanded
+Inconsolata UltraExpanded Black
+Inconsolata UltraExpanded Extra
+Inconsolata UltraExpanded Light
+Inconsolata UltraExpanded Mediu
+Inconsolata UltraExpanded SemiB
+JetBrains Mono
+JetBrains Mono ExtraBold
+JetBrains Mono ExtraLight
+JetBrains Mono Light
+JetBrains Mono Medium
+JetBrains Mono NL
+JetBrains Mono NL ExtraBold
+JetBrains Mono NL ExtraLight
+JetBrains Mono NL Light
+JetBrains Mono NL Medium
+JetBrains Mono NL SemiBold
+JetBrains Mono NL Thin
+JetBrains Mono SemiBold
+JetBrains Mono Thin
+Operator Mono Lig Book
+Operator Mono Lig Light
+SF Mono
+Zed Mono Extended
+Zed Mono Light Extended
